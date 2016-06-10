@@ -159,7 +159,7 @@ For each user story it is possible to break it down into sub tasks.
   <figcaption>A user story's tasks</figcaption>
 </figure>
 
-> Challenge: Write an example user story either for the game you are planning to build for Project 1.
+> Challenge: Write an example user story for the game you are planning to build for Project 1.
 
 ## Wireframes
 
