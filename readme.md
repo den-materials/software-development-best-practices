@@ -41,7 +41,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 _Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
 
-The [Agile Manifesto](http://www.agilemanifesto.org/) is a formal "proclamation" of key values for approaching software development put together in 2001. Let's discuss its core 12 principles:
+The [Agile Manifesto](http://www.agilemanifesto.org/) is a formal "proclamation" of key values for approaching software development put together in 2001. Let's discuss its core [12 principles](http://www.agilemanifesto.org/principles.html):
 
 * Our highest priority is to **satisfy the customer**
 through early and **continuous delivery
