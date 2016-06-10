@@ -2,11 +2,14 @@
 
 # Software Development Best Practices
 
+<!--Hook... As JP said to me recently, "Being a developer is about managing two types of communication: communication with this computer in front of me, and communication with other people."   For those who get into this line of work to avoid dealing with people, I have bad news for you: the best developers have solid inter-personal communication skills.  I have worse news for you: this is only becoming more true as time goes on. -->
+
 ### Why is this important?
 <!-- framing the "why" in big-picture/real world examples -->
 *This workshop is important because:*
 
-Well-planned projects with flexible processes are more enjoyable to work on and turn out better. In the following workshop we will discuss how to plan appropriately and follow some best practices.
+ - Well-planned projects with flexible processes are more enjoyable to work on and turn out better. In the following workshop we will discuss how to plan appropriately and follow some best practices.
+ - There are numerous roles like *Agile Coach* or *Scrum Master* that you may serve in, either as a full-time position, or as part of your responsibilities as a developer.
 
 ### What are the objectives?
 <!-- specific/measurable goal for students to achieve -->
@@ -85,6 +88,7 @@ emerge from **self-organizing teams**.
 to become more effective**, then tunes and adjusts 
 its behavior accordingly.
 
+<!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
 ## Best practices
 
