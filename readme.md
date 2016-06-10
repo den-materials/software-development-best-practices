@@ -12,22 +12,22 @@ Well-planned projects with flexible processes are more enjoyable to work on and 
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
 
-- Compare and contrast several development methodologies
-- Define features as user stories
-- Inform a UI with mockups
-- Conduct a scrum
+- **Compare** and contrast several development methodologies
+- **Define** features as user stories
+- **Inform** a UI with mockups
+- **Conduct** a scrum
 
 ### Where should we be now?
 <!-- call out the skills that are prerequisites -->
 *Before this workshop, developers should already be able to:*
 
-* Have projects in the planning phase
+* **Have** projects in the planning phase
 
 ##Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
 
-Waterfall is a good example of a linear methodology in which the project's progress steady flows down from one team to another. It's "easy" manage due to the rigidity of the model.
+Waterfall is a good example of a linear methodology in which the project's progress steady flows down from one team to another. It's "easy" to manage due to the rigidity of the model.
 
 ###Consequences...
 
@@ -35,11 +35,13 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 > What tends to happen to new projects in waterfall organizations?
 
+<!-- CFU think-group-share ^^^^  ^^^^^ -->
+
 ## Agile Methodology
 
 _Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
 
-The Agile Manifesto is a formal "proclamation" of key values for approaching software development put together in 2001. Let's discuss its core 12 principles:
+The [Agile Manifesto](http://www.agilemanifesto.org/) is a formal "proclamation" of key values for approaching software development put together in 2001. Let's discuss its core 12 principles:
 
 * Our highest priority is to **satisfy the customer**
 through early and **continuous delivery
