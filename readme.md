@@ -39,7 +39,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 ## Agile Methodology
 
-_Agile software development is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
+_**Agile software development** is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
 
 The [Agile Manifesto](http://www.agilemanifesto.org/) is a formal "proclamation" of key values for approaching software development put together in 2001. Let's discuss its core [12 principles](http://www.agilemanifesto.org/principles.html):
 
@@ -96,7 +96,7 @@ its behavior accordingly.
 
 ####Deliver Working Software
 
-* **Pair programming** is development technique in which two programmers work on a specific problem together.
+* **Pair programming** is a development technique in which two programmers work on a specific problem together.
 
 * **Test-driven development** improves code design and quality.
 
@@ -104,15 +104,17 @@ its behavior accordingly.
 
 * **Scrum meetings** are short meetings used to plan, review, and increase accountability and clarity across a team.
 
-* **Retrospectives** a period for reflection at the end of each sprint.
+* **Sprints** are set periods of time (usually days or weeks) in which a set amount of work is to be completed and delivered.
+
+* **Retrospectives** are periods for reflection at the end of each sprint.
 
 ## User Stories
 
 ###How do I know what the client wants?
 
-When you meet with the client translate all the features that you discuss into **user stories** following the format:
+When you meet with the client, translate all the features that you discuss into **user stories** following the format:
 
-**A user *(specified type optional)* can [GOAL], *so that [PURPOSE]***
+**A user *(specified type optional)* can [GOAL], so that [PURPOSE]**
 
 For example:
 
@@ -121,7 +123,7 @@ For example:
 
 ###How can I make an accurate time and budget quote on a project?
 
-As a user story complexity increases linearly, its time to complete it will increase geometrically. As a result, when assigning weighing each user story's relative complexity assign it a fibonacci number that corresponds to the relative time it will require. This is called the **point system** and is a great way to budget time and money.
+As a user story complexity increases linearly, its time to complete it will increase geometrically. As a result, when weighing each user story's relative complexity, assign it a [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) that corresponds to the relative time it will require. This is called the **point system** and is a great way to budget time and money.
 
 **[1, 2, 3, 5, 8, 13, 21]**
 
@@ -129,7 +131,7 @@ corresponds to:
 
 **[easiest, easier, easy, moderate, hard, harder, hardest]**
 
-*Note: If something is every bigger than 21 points, consider breaking it down into more user stories.*
+*Note: If something is ever bigger than 21 points, consider breaking it down into smaller user stories.*
 
 Once all the user stories are assigned points, it is possible to start estimating how many points can be completed in a given period of time. A **sprint** is a period of predefined time, typically 1-2 weeks, during which teams aim to complete a set of user stories. The team initially estimates how many points is realistic to accomplish during the a sprint. Once the team completes a sprint, they can measure the rate of points completed in a given of time, or their **velocity**. Knowing the current and average velocities of the team, allows for more accurate projections into the future. 
 
@@ -153,7 +155,7 @@ For each user story it is possible to break it down into sub tasks.
   <figcaption>A user story's tasks</figcaption>
 </figure>
 
-> Challenge: Write an example user story either for tic-tack-toe or for an original game you are planning to build.
+> Challenge: Write an example user story either for the game you are planning to build for Project 1.
 
 ## Wireframes
 
@@ -195,15 +197,15 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 * What user stories did you complete yesterday?
 * What user stories are you working on today?
-* Do you have any blocks?
+* Do you have any blockers?
 
-*Note: a block is anything that has completely inhibited you from moving forward.*
+*Note: a blocker is anything that has completely inhibited you from moving forward.*
 
-> Conduct a scrum at your tables
+> Conduct a scrum on Project 1 at your tables
 
 ##Retrospective
 
-At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) for which to conduct a retrospective; the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
+At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
 
 ###The Six Hats
 
@@ -231,12 +233,20 @@ The discussion moves on to any **ideas** people have about solving problems or t
 
 Give the participants a short period of time in which they can come up to the board and write down 2 **emotive statements** each. These could be the issues that have stood out for them the most or an idea for solving a problem. These statements should be instinctive which is why you will give them very little time to do this.
 
+**Conclusions**
+
+At this point, most teams take the time to formalize a few S.M.A.R.T. goals for their next sprint, based on all the restrospective information discussed.
+
+*Specific, Measurable, Attainable, Realistic, Time-boxed
+
 ##Closing Thoughts
 
 - How can writting user stories help manage our clients from a time and cost perspective?
 - Name two process a team can adhere to in order to improve the quality of the code produced.
 - Assuming the use of TDD, how would feature request get translated into working code?
-- What's one thing a team can do to better self-organize and be more effective.
+- What's one thing a team can do to better self-organize and be more effective?
+
+<!--CFU Think-pair-share--> 
 
 ##Related Resources
 
