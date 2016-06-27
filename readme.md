@@ -11,7 +11,8 @@
  - Well-planned projects with flexible processes are more enjoyable to work on and turn out better. In the following workshop we will discuss how to plan appropriately and follow some best practices.
  - There are numerous roles like *Agile Coach* or *Scrum Master* that you may serve in, either as a full-time position, or as part of your responsibilities as a developer.
 
-### What are the objectives?
+<!-- 9:05 -->
+### What are the objectives? 
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
 
@@ -26,6 +27,7 @@
 
 * **Have** projects in the planning phase
 
+<!-- 9:10 -->
 ##Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
@@ -40,6 +42,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 <!-- CFU think-group-share ^^^^  ^^^^^ -->
 
+<!-- 9:15 -->
 ## Agile Methodology
 
 _**Agile software development** is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
@@ -90,6 +93,8 @@ its behavior accordingly.
 
 <!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
+<!-- 9:25 -->
+
 ## Best practices
 
 ####Satisfy the Customer
@@ -112,6 +117,10 @@ its behavior accordingly.
 
 * **Retrospectives** are periods for reflection at the end of each sprint.
 
+<!--CFU: Catch-phrase with these 7 phrases -->
+
+<!-- 9:35 -->
+
 ## User Stories
 
 ###How do I know what the client wants?
@@ -122,8 +131,8 @@ When you meet with the client, translate all the features that you discuss into 
 
 For example:
 
-- _A user can read reviews of a book (so that they are better informed when making a purchase)._
-- _An admin can update the inventory of a book so that the buyers know what is available._
+- _A user **can** read reviews of a book (**so that** they are better informed when making a purchase)._
+- _An admin **can** update the inventory of a book **so that** the buyers know what is available._
 
 ###How can I make an accurate time and budget quote on a project?
 
@@ -141,6 +150,9 @@ Once all the user stories are assigned points, it is possible to start estimatin
 
 A collection of user stories will contain an overall point score.
 
+<!--CFU Order the post-it notes, then put numbers on them -->
+
+<!-- 9:45 -->
 ###What tools should I use to do this?
 
 Head to [Trello](https://trello.com), make a new board, and create three lists: "To Do", "Doing", and "Done".
@@ -161,6 +173,7 @@ For each user story it is possible to break it down into sub tasks.
 
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
+<!-- 9:50-55 -->
 ## Wireframes
 
 Wireframes illustrate how the user **navigates** to and **interfaces** with **information** presented to them.
@@ -187,6 +200,7 @@ One programmer, the driver, writes code while the other, the navigator, reviews 
 
 Checkout [how Atlassian does it](https://www.youtube.com/watch?v=dYBjVTMUQY0)
 
+<!-- 10:00 -->
 ##TDD
 
 Test driven development will improve the design and quality of the code written. It follows the cycle:
@@ -195,6 +209,9 @@ Test driven development will improve the design and quality of the code written.
 
 *Note: pair programming and TDD can work well together in a [ping pong pattern](http://c2.com/cgi/wiki?PairProgrammingPingPongPattern).*
 
+<!-- Bring up mocha spec from Iterators lab -->
+
+<!-- 10:05 -->
 ##Scrum
 
 Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "self-organize". It is recommended to keep the scrum as *short as possible*. Agree on a duration of about 5-15 minutes. Scrums are typically conducted at the very beginning of every day additionally as needed (i.e. afternoon and the end of the day). A standard format is to go around in a circle and for each person to answer the following questions:
@@ -207,6 +224,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum on Project 1 at your tables
 
+<!-- 10:00 -->
 ##Retrospective
 
 At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
@@ -245,9 +263,9 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 ##Closing Thoughts
 
-- How can writting user stories help manage our clients from a time and cost perspective?
-- Name two process a team can adhere to in order to improve the quality of the code produced.
-- Assuming the use of TDD, how would feature request get translated into working code?
+- How can writing user stories help manage our clients from a time and cost perspective?
+- Name two processes a team can adhere to in order to improve the quality of the code produced.
+- Assuming the use of TDD, how would a feature request get translated into working code?
 - What's one thing a team can do to better self-organize and be more effective?
 
 <!--CFU Think-pair-share--> 
