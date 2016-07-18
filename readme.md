@@ -279,3 +279,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 ##Related Resources
 
 * [Building an MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
