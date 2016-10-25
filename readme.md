@@ -1,8 +1,10 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--9:00 10 minutes -->
+
 # Software Development Best Practices
 
-<!--Hook... As JP said to me recently, "Being a developer is about managing two types of communication: communication with this computer in front of me, and communication with other people."   For those who get into this line of work to avoid dealing with people, I have bad news for you: the best developers have solid inter-personal communication skills.  I have worse news for you: this is only becoming more true as time goes on. -->
+<!--Hook... As another teacher once said to me, "Being a developer is about managing two types of communication: communication with this computer in front of me, and communication with other people."   For those who get into this line of work to avoid dealing with people, I have bad news for you: the best developers have solid inter-personal communication skills.  I have worse news for you: this is only becoming more true as time goes on. -->
 
 ### Why is this important?
 <!-- framing the "why" in big-picture/real world examples -->
@@ -11,7 +13,6 @@
  - Well-planned projects with flexible processes are more enjoyable to work on and turn out better. In the following workshop we will discuss how to plan appropriately and follow some best practices.
  - There are numerous roles like *Agile Coach* or *Scrum Master* that you may serve in, either as a full-time position, or as part of your responsibilities as a developer.
 
-<!-- 9:05 -->
 ### What are the objectives? 
 <!-- specific/measurable goal for students to achieve -->
 *After this workshop, developers will be able to:*
@@ -27,7 +28,7 @@
 
 * **Have** projects in the planning phase
 
-<!-- 9:10 -->
+<!-- 9:10 5 minutes-->
 ##Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
@@ -42,7 +43,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 <!-- CFU think-group-share ^^^^  ^^^^^ -->
 
-<!-- 9:15 -->
+<!-- 9:15 10 minutes -->
 ## Agile Methodology
 
 _**Agile software development** is a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement, and encourages rapid and flexible response to change_- [Wikipedia](http://en.wikipedia.org/wiki/Agile_software_development)
@@ -93,23 +94,23 @@ its behavior accordingly.
 
 <!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
-<!-- 9:25 -->
+<!-- 9:25 10 minutes-->
 
 ## Best practices
 
-####Satisfy the Customer
+#### Satisfy the Customer
 
 * **User stories** define the features an application will provide in a simple and concise way.
 
 * **Wireframes** define the user interface of the application.
 
-####Deliver Working Software
+#### Deliver Working Software
 
 * **Pair programming** is a development technique in which two programmers work on a specific problem together.
 
 * **Test-driven development** improves code design and quality.
 
-###Work Together
+### Work Together
 
 * **Scrum meetings** are short meetings used to plan, review, and increase accountability and clarity across a team.
 
@@ -119,11 +120,11 @@ its behavior accordingly.
 
 <!--CFU: Catch-phrase with these 7 phrases -->
 
-<!-- 9:35 -->
+<!-- 9:35 10 minutes-->
 
 ## User Stories
 
-###How do I know what the client wants?
+### How do I know what the client wants?
 
 When you meet with the client, translate all the features that you discuss into **user stories** following the format:
 
@@ -134,7 +135,7 @@ For example:
 - _A user **can** read reviews of a book (**so that** they are better informed when making a purchase)._
 - _An admin **can** update the inventory of a book **so that** the buyers know what is available._
 
-###How can I make an accurate time and budget quote on a project?
+### How can I make an accurate time and budget quote on a project?
 
 As a user story complexity increases linearly, its time to complete it will increase geometrically. As a result, when weighing each user story's relative complexity, assign it a [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number) that corresponds to the relative time it will require. This is called the **point system** and is a great way to budget time and money.
 
@@ -152,8 +153,8 @@ A collection of user stories will contain an overall point score.
 
 <!--CFU Order the post-it notes, then put numbers on them -->
 
-<!-- 9:45 -->
-###What tools should I use to do this?
+<!-- 9:45 10 minutes-->
+### What tools should I use to do this?
 
 Head to [Trello](https://trello.com), make a new board, and create three lists: "To Do", "Doing", and "Done".
 
@@ -173,12 +174,12 @@ For each user story it is possible to break it down into sub tasks.
 
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
-<!-- 9:50-55 -->
+<!-- 9:55 5 minutes-->
 ## Wireframes
 
 Wireframes illustrate how the user **navigates** to and **interfaces** with **information** presented to them.
 
-Having user stories will better inform wireframes, while having wireframes will help further refine the user stories. They are very complementary in this way.
+Having user stories will better inform wireframes, while having wireframes will help further refine the user stories. They are very complementary.
 
 Can the user intuitively **navigate** through the experience and **interface** with the **information** presented to them?
 
@@ -188,15 +189,13 @@ Can the user intuitively **navigate** through the experience and **interface** w
   <figcaption>An example wireframe</figcaption>
 </figure>
 
-> Challenge: Wire frame the new page for [Tesla's Model 3](https://www.teslamotors.com/model3)
-
 If you are looking for a wire-framing tool, there are a few big ones available online:
 * [Wireframe.cc](https://wireframe.cc/)
 * [Balsamiq](https://balsamiq.com/products/mockups/)
 * [Moqups](https://moqups.com/)
 * [InVision](https://www.invisionapp.com/)
 
-##Pair Programming
+## Pair Programming
 
 The practice of pair programming is cited to: **improve code quality** through an increase in communication, **facilitate team cohesion** through collective code ownership, **improve long-term velocity** through a reduction in errors made, in addition to other benefits! 
 
@@ -206,8 +205,9 @@ One programmer, the driver, writes code while the other, the navigator, reviews 
 
 Checkout [how Atlassian does it](https://www.youtube.com/watch?v=dYBjVTMUQY0)
 
-<!-- 10:00 -->
-##TDD
+<!-- 10:00 5 minutes-->
+
+## TDD
 
 Test driven development will improve the design and quality of the code written. It follows the cycle:
 
@@ -217,8 +217,9 @@ Test driven development will improve the design and quality of the code written.
 
 <!-- Bring up mocha spec from Iterators lab -->
 
-<!-- 10:05 -->
-##Scrum
+<!-- 10:05 5 minutes-->
+
+## Scrum
 
 Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "self-organize". It is recommended to keep the scrum as *short as possible*. Agree on a duration of about 5-15 minutes. Scrums are typically conducted at the very beginning of every day additionally as needed (i.e. afternoon and the end of the day). A standard format is to go around in a circle and for each person to answer the following questions:
 
@@ -230,7 +231,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum on Project 1 at your tables
 
-<!-- 10:00 -->
+<!-- 10:10 5 minutes-->
 ##Retrospective
 
 At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
@@ -267,7 +268,9 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 *Specific, Measurable, Attainable, Realistic, Time-boxed
 
-##Closing Thoughts
+<!--10:15 5 minutes -->
+
+## Closing Thoughts
 
 - How can writing user stories help manage our clients from a time and cost perspective?
 - Name two processes a team can adhere to in order to improve the quality of the code produced.
