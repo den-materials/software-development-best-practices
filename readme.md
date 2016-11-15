@@ -195,9 +195,11 @@ If you are looking for a wire-framing tool, there are a few big ones available o
 * [Moqups](https://moqups.com/)
 * [InVision](https://www.invisionapp.com/)
 
+<!--10:00 5 minutes -->
+
 ## Pair Programming
 
-The practice of pair programming is cited to: **improve code quality** through an increase in communication, **facilitate team cohesion** through collective code ownership, **improve long-term velocity** through a reduction in errors made, in addition to other benefits! 
+The practice of pair programming is cited to: **improve code quality** through an increase in communication, **facilitate team cohesion** through collective code ownership, **improve long-term velocity** through a reduction in errors made, in addition to other benefits!
 
 One programmer, the driver, writes code while the other, the navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
 
@@ -205,7 +207,7 @@ One programmer, the driver, writes code while the other, the navigator, reviews 
 
 Checkout [how Atlassian does it](https://www.youtube.com/watch?v=dYBjVTMUQY0)
 
-<!-- 10:00 5 minutes-->
+<!-- 10:05 5 minutes-->
 
 ## TDD
 
@@ -217,7 +219,7 @@ Test driven development will improve the design and quality of the code written.
 
 <!-- Bring up mocha spec from Iterators lab -->
 
-<!-- 10:05 5 minutes-->
+<!-- 10:10 5 minutes-->
 
 ## Scrum
 
@@ -231,7 +233,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum on Project 1 at your tables
 
-<!-- 10:10 5 minutes-->
+<!-- 10:15 5 minutes-->
 ##Retrospective
 
 At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
@@ -268,7 +270,9 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 *Specific, Measurable, Attainable, Realistic, Time-boxed
 
-<!--10:15 5 minutes -->
+<!-- We will do this activity on Monday -->
+
+<!--10:20 5 minutes -->
 
 ## Closing Thoughts
 
