@@ -223,7 +223,7 @@ Test driven development will improve the design and quality of the code written.
 
 ## Scrum
 
-Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "self-organize". It is recommended to keep the scrum as *short as possible*. Agree on a duration of about 5-15 minutes. Scrums are typically conducted at the very beginning of every day additionally as needed (i.e. afternoon and the end of the day). A standard format is to go around in a circle and for each person to answer the following questions:
+Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "self-organize". It is recommended to keep the scrum as *short as possible*. Agree on a duration of about 5-15 minutes. Scrums are typically conducted at the very beginning of every day additionally as needed (e.g. afternoon and the end of the day). A standard format is to go around in a circle and for each person to answer the following questions:
 
 * What user stories did you complete yesterday?
 * What user stories are you working on today?
@@ -234,7 +234,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 > Conduct a scrum on Project 1 at your tables
 
 <!-- 10:15 5 minutes-->
-##Retrospective
+## Retrospective
 
 At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
 
