@@ -236,17 +236,15 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 <!-- 10:15 5 minutes-->
 ## Retrospective
 
-At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective) is a popular one.
+At the end of each sprint a team will conduct a **retrospective** in an effort to "become more effective". There are [numerous formats](http://retrospectivewiki.org/index.php?title=Retrospective_Plans) through which to [conduct a retrospective](http://www.funretrospectives.com/category/retrospective/); the four hats is a popular one.  
 
-###The Six Hats
+> You may see this pattern with more or fewer hats, for instance, the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective).
+
+### The Four Hats
 
 **Blue Hat**
 
 Use the blue hat to discuss the **objectives** for the session and write the output on the whiteboard.
-
-**White Hat**
-
-Participants raise and discuss anything from the last iteration which can be said to be a **fact or information**. Hunches and feelings and any discussion of reasons or other non information based output should be left for the appropriate hat.
 
 **Yellow Hat**
 
@@ -260,17 +258,13 @@ Participants can only talk about the **bad things** that happened, any negative 
 
 The discussion moves on to any **ideas** people have about solving problems or things that may add more value to the business or help in any way. Outside of the box helicopter view blue sky thinking is encouraged.
 
-**Red Hat**
-
-Give the participants a short period of time in which they can come up to the board and write down 2 **emotive statements** each. These could be the issues that have stood out for them the most or an idea for solving a problem. These statements should be instinctive which is why you will give them very little time to do this.
-
 **Conclusions**
 
 At this point, most teams take the time to formalize a few S.M.A.R.T. goals for their next sprint, based on all the restrospective information discussed.
 
 *Specific, Measurable, Attainable, Realistic, Time-boxed
 
-<!-- We will do this activity on Monday -->
+<!-- We will do this activity at end of Project 1 -->
 
 <!--10:20 5 minutes -->
 
@@ -283,7 +277,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 <!--CFU Think-pair-share--> 
 
-##Related Resources
+## Related Resources
 
 * [Building an MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
 
