@@ -1,5 +1,6 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--9:05 -->
 <!--9:00 10 minutes -->
 
 # Software Development Best Practices
@@ -28,6 +29,7 @@
 
 * **Have** projects in the planning phase
 
+<!-- 9:11 -->
 <!-- 9:10 5 minutes-->
 ## Waterfall Methodology
 
@@ -43,6 +45,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 <!-- CFU think-group-share ^^^^  ^^^^^ -->
 
+<!-- 9:17 -->
 <!-- 9:15 10 minutes -->
 ## Agile Methodology
 
@@ -94,6 +97,7 @@ its behavior accordingly.
 
 <!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
+<!--9:30 -->
 <!-- 9:25 10 minutes-->
 
 ## Best practices
@@ -120,6 +124,7 @@ its behavior accordingly.
 
 <!--CFU: Catch-phrase with these 7 phrases -->
 
+<!--Actually 9:40 -->
 <!-- 9:35 10 minutes-->
 
 ## User Stories
@@ -153,6 +158,7 @@ A collection of user stories will contain an overall point score.
 
 <!--CFU Make user stories for tic-tac-toe on post-its, Order the post-it notes, then put numbers on them -->
 
+<!--9:49 -->
 <!-- 9:45 10 minutes-->
 ### What tools should I use to do this?
 
@@ -174,6 +180,7 @@ For each user story it is possible to break it down into sub tasks.
 
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
+<!-- 9:58 -->
 <!-- 9:55 5 minutes-->
 ## Wireframes
 
@@ -195,6 +202,7 @@ If you are looking for a wire-framing tool, there are a few big ones available o
 * [Moqups](https://moqups.com/)
 * [InVision](https://www.invisionapp.com/)
 
+<!--10:00 -->
 <!--10:00 5 minutes -->
 
 ## Pair Programming
@@ -207,6 +215,7 @@ One programmer, the driver, writes code while the other, the navigator, reviews 
 
 Checkout [how Atlassian does it](https://www.youtube.com/watch?v=dYBjVTMUQY0)
 
+<!--10:05 -->
 <!-- 10:05 5 minutes-->
 
 ## TDD
@@ -219,6 +228,7 @@ Test driven development will improve the design and quality of the code written.
 
 <!-- Bring up mocha spec from Iterators lab -->
 
+<!--10:09 - didn't bring up mocha -->
 <!-- 10:10 5 minutes-->
 
 ## Scrum
@@ -233,6 +243,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum on Project 1 at your tables
 
+<!-- 10:19 -->
 <!-- 10:15 5 minutes-->
 ## Retrospective
 
@@ -266,6 +277,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 <!-- We will do this activity at end of Project 1 -->
 
+<!--10:25 -->
 <!--10:20 5 minutes -->
 
 ## Closing Thoughts
@@ -277,6 +289,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 <!--CFU Think-pair-share--> 
 
+<!--Actually end 10:33 -->
 ## Related Resources
 
 * [Building an MVP](https://www.youtube.com/watch?v=1FoCbbbcYT8)
