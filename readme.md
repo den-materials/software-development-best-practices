@@ -29,13 +29,13 @@
 * **Have** projects in the planning phase
 
 <!-- 9:10 5 minutes-->
-##Waterfall Methodology
+## Waterfall Methodology
 
 ![waterfall](https://i.imgur.com/yJMVO91.png)
 
 Waterfall is a good example of a linear methodology in which the project's progress steady flows down from one team to another. It's "easy" to manage due to the rigidity of the model.
 
-###Consequences...
+### Consequences...
 
 ...
 
@@ -151,7 +151,7 @@ Once all the user stories are assigned points, it is possible to start estimatin
 
 A collection of user stories will contain an overall point score.
 
-<!--CFU Order the post-it notes, then put numbers on them -->
+<!--CFU Make user stories for tic-tac-toe on post-its, Order the post-it notes, then put numbers on them -->
 
 <!-- 9:45 10 minutes-->
 ### What tools should I use to do this?
