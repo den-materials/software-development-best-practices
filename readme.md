@@ -1,5 +1,6 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--9:04 WDI4 -->
 <!--9:05 -->
 <!--9:00 10 minutes -->
 
@@ -46,6 +47,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 <!-- CFU think-group-share ^^^^  ^^^^^ -->
 
 <!-- 9:17 -->
+<!--9:16 WDI4 -->
 <!-- 9:15 10 minutes -->
 ## Agile Methodology
 
@@ -98,6 +100,7 @@ its behavior accordingly.
 <!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
 <!--9:30 -->
+<!--
 <!-- 9:25 10 minutes-->
 
 ## Best practices
@@ -124,6 +127,7 @@ its behavior accordingly.
 
 <!--CFU: Catch-phrase with these 7 phrases -->
 
+<!--9:36 WDI4 but no catch phrase yet -->
 <!--Actually 9:40 -->
 <!-- 9:35 10 minutes-->
 
@@ -159,6 +163,7 @@ A collection of user stories will contain an overall point score.
 <!--CFU Make user stories for tic-tac-toe on post-its, Order the post-it notes, then put numbers on them -->
 
 <!--9:49 -->
+<!--WDI4 10:04 -->
 <!-- 9:45 10 minutes-->
 ### What tools should I use to do this?
 
@@ -181,6 +186,7 @@ For each user story it is possible to break it down into sub tasks.
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
 <!-- 9:58 -->
+<!--10:13 WDI4 -->
 <!-- 9:55 5 minutes-->
 ## Wireframes
 
@@ -244,6 +250,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 > Conduct a scrum on Project 1 at your tables
 
 <!-- 10:19 -->
+<!--10:34 WDI4 -->
 <!-- 10:15 5 minutes-->
 ## Retrospective
 
@@ -251,11 +258,7 @@ At the end of each sprint a team will conduct a **retrospective** in an effort t
 
 > You may see this pattern with more or fewer hats, for instance, the [six hats](http://retrospectivewiki.org/index.php?title=6_Thinking_Hats_Retrospective).
 
-### The Four Hats
-
-**Blue Hat**
-
-Use the blue hat to discuss the **objectives** for the session and write the output on the whiteboard.
+### The Three Hats
 
 **Yellow Hat**
 
