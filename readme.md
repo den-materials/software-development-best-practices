@@ -250,7 +250,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 > Conduct a scrum on Project 1 at your tables
 
 <!-- 10:19 -->
-<!--10:34 WDI4 -->
+<!--10:36 WDI4 -->
 <!-- 10:15 5 minutes-->
 ## Retrospective
 
@@ -282,6 +282,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 <!--10:25 -->
 <!--10:20 5 minutes -->
+<!--WDI4 10:42 -->
 
 ## Closing Thoughts
 
