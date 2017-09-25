@@ -1,6 +1,7 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--9:04 WDI4 -->
+<!--9:04 WDI5 -->
 <!--9:05 -->
 <!--9:00 10 minutes -->
 
@@ -46,6 +47,7 @@ Waterfall is a good example of a linear methodology in which the project's progr
 
 <!-- CFU think-group-share ^^^^  ^^^^^ -->
 
+<!--WDI5 9:18 -->
 <!-- 9:17 -->
 <!--9:16 WDI4 -->
 <!-- 9:15 10 minutes -->
@@ -100,7 +102,7 @@ its behavior accordingly.
 <!-- CFU: Stop and Jot, choose three words that describe Agile Software Development to you.  -->
 
 <!--9:30 -->
-<!--
+<!--WDI5 9:25 -->
 <!-- 9:25 10 minutes-->
 
 ## Best practices
@@ -129,6 +131,7 @@ its behavior accordingly.
 
 <!--9:36 WDI4 but no catch phrase yet -->
 <!--Actually 9:40 -->
+<!--9:32 WDI5 -->
 <!-- 9:35 10 minutes-->
 
 ## User Stories
@@ -185,6 +188,7 @@ For each user story it is possible to break it down into sub tasks.
 
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
+<!--WDI5 9:51 before Tic-Tac-Toe stories, done with TTT at 10:04-->
 <!-- 9:58 -->
 <!--10:13 WDI4 -->
 <!-- 9:55 5 minutes-->
@@ -281,6 +285,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 <!-- We will do this activity at end of Project 1 -->
 
 <!--10:25 -->
+<!--WDI5 10:18 -->
 <!--10:20 5 minutes -->
 <!--WDI4 10:42 -->
 
@@ -293,6 +298,7 @@ At this point, most teams take the time to formalize a few S.M.A.R.T. goals for 
 
 <!--CFU Think-pair-share--> 
 
+<!--10:23 WDI5 -->
 <!--Actually end 10:33 -->
 ## Related Resources
 
