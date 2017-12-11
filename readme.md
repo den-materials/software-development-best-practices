@@ -189,6 +189,7 @@ For each user story it is possible to break it down into sub tasks.
 > Challenge: Write an example user story for the game you are planning to build for Project 1.
 
 <!--WDI5 9:51 before Tic-Tac-Toe stories, done with TTT at 10:04-->
+<!--WDI6 10:19 -->
 <!-- 9:58 -->
 <!--10:13 WDI4 -->
 <!-- 9:55 5 minutes-->
@@ -253,6 +254,7 @@ Similar to rugby, a **scrum** is when a team quickly groups up in an effort to "
 
 > Conduct a scrum on Project 1 at your tables
 
+<!-- 10:35 WDI6-->
 <!-- 10:19 -->
 <!--10:36 WDI4 -->
 <!-- 10:15 5 minutes-->
